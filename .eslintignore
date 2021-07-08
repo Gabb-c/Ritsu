@@ -2,3 +2,4 @@ node_modules
 dist
 jest.config.js
 register-paths.js
+/*.js

@@ -20,14 +20,13 @@ Ritsu
 Ritsu is a Discord Bot based on the game of guessing animes by openings/endings themes, mostly known as AnimeMusicQuiz. Her goal is to bring the AMQ magic fully to the Discord.
 <br>
 <br>
-We are <b>totally open-source</b> and contribuitions are more than welcome, feel free to get around with the code and see how everything works. If you want do contribuite to the codebase, continue reading and will know how. 
+We are <b>totally open-source</b> and contribuitions are more than welcome, feel free to get around with the code and see how everything works. If you want do contribuite to the codebase, continue reading and will know how.
 
-
-## Want to add her? 
+## Want to add her?
 
 <img src="https://i.imgur.com/USCFUYx.png" width=250px align="right">
 
-Don't you want to know about codes or complicated blah blah blah and just want to play and have fun? You can add the incredible public version just [clicking here](https://ritsu.fun/invite)  (｡･∀･)ﾉﾞ
+Don't you want to know about codes or complicated blah blah blah and just want to play and have fun? You can add the incredible public version just [clicking here](https://ritsu.fun/invite) (｡･∀･)ﾉﾞ
 
 Having problems, do you want to make a suggestion or talk to us? Feel free to join our support server!
 <br>
