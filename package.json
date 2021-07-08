@@ -12,8 +12,10 @@
     "lint": "eslint src --ext ts,js --fix",
     "type-check": "tsc --skipLibCheck",
     "ci": "yarn install --frozen-lockfile",
-    "test": "jest",
-    "coverage": "jest --coverage",
+    "test:watch": "jest --watch --verbose --colors --expand --maxWorkers=25%",
+    "test:coverage": "jest --coverage",
+    "test:dev": "jest --verbose --colors --expand --maxWorkers=50% --detectOpenHandles --errorOnDeprecated --bail",
+    "test:ci": "jest --ci --runInBand --bail --detectOpenHandles --errorOnDeprecated",
     "prepare": "is-ci || husky install"
   },
   "dependencies": {
